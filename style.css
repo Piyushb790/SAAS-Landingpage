@@ -1,0 +1,161 @@
+body {
+  height: 100vh;
+}
+.container1 {
+  padding: 30px 15%;
+  background-color: #7030cc;
+  height: 700px;
+  border-radius: 50px 50px 0 0;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo img {
+  height: 40px;
+  filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%)
+    hue-rotate(180deg) brightness(104%) contrast(101%);
+}
+.list-items {
+  margin-left: 252px;
+  display: flex;
+  list-style: none;
+}
+.list-item {
+  font-size: 17px;
+  margin: 0 20px;
+  color: #ffffff;
+}
+.home {
+  color: #1bbcef;
+}
+.btn1 button {
+  padding: 10px 20px;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #1bbcef;
+  border: none;
+}
+.subcontainer1 {
+  display: flex;
+  justify-content: space-between;
+}
+.content1 {
+  margin-top: 50px;
+  width: 400px;
+}
+.content1 h1 {
+  font-size: 60px;
+  color: #ffffff;
+}
+.content1 p {
+  font-size: 15px;
+  color: #ffffff;
+}
+.img1 img {
+  height: 500px;
+}
+.subcontainer2 {
+  margin-top: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+.content2 {
+  margin-top: 50px;
+  width: 300px;
+}
+.content2 h2 {
+  width: 400px;
+  font-size: 30px;
+}
+.img2 img {
+  height: 500px;
+}
+.heading {
+  font-size: 20px;
+  width: 550px;
+  margin: auto;
+  text-align: center;
+}
+.subcontainer3 {
+  display: flex;
+  justify-content: center;
+  width: 950px;
+  margin: auto;
+  height: 250px;
+  padding: 50px 0;
+}
+
+.img-same img {
+  height: 30px;
+}
+
+.img3 {
+  display: inline-block;
+  background-color: #fdeaee;
+  border-radius: 50%;
+  padding: 25px;
+}
+
+.img4 {
+  display: inline-block;
+  background-color: #fbf0ee;
+  border-radius: 50%;
+  padding: 25px;
+}
+
+.img5 {
+  display: inline-block;
+  background-color: #e9f4f6;
+  border-radius: 50%;
+  padding: 25px;
+}
+.img6 {
+  display: inline-block;
+  background-color: #f2e7f5;
+  border-radius: 50%;
+  padding: 25px;
+}
+.card {
+  box-shadow: 2px 2px 5px #000;
+  border-radius: 25px;
+  text-align: center;
+  font-size: 14px;
+  margin: 0 12px;
+}
+
+.cardcontent {
+  border-radius: 25px;
+}
+.cardcontent h1,
+p {
+  padding: 5px;
+}
+.cleancode {
+  background-color: #6429b7;
+  color: #ffffff;
+}
+.card-item {
+  margin-top: 30px;
+}
+.share img {
+  height: 20px;
+}
+.share {
+  position: relative;
+  top: 45px;
+  right: 30px;
+}
+.share1 {
+  filter: brightness(0) saturate(100%) invert(74%) sepia(84%) saturate(3323%)
+    hue-rotate(335deg) brightness(104%) contrast(90%);
+}
+.share2 {
+  filter: brightness(0) saturate(100%) invert(74%) sepia(24%) saturate(1047%)
+    hue-rotate(49deg) brightness(90%) contrast(98%);
+}
+.share3 {
+  filter: brightness(0) saturate(100%) invert(48%) sepia(100%) saturate(2215%)
+    hue-rotate(193deg) brightness(109%) contrast(90%);
+}
